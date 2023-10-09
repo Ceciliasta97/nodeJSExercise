@@ -1,0 +1,1 @@
+pipe is used to output data from a input file to a ouput file

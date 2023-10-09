@@ -1,0 +1,1 @@
+this is a file to test zlib stream. exercise11 will compress input11.txt to input11.txt.gz

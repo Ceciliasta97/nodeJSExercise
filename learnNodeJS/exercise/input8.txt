@@ -1,0 +1,1 @@
+hi i am cecilia, this is a node.js program. this exercise use stream to read input8.txt file
